@@ -10,7 +10,7 @@
 	justify-content:center;
 	
 }
-.ar{
+.latest-news-section{
 	background-color:white;
 	width:20%;
 	border-radius:5px;
@@ -22,7 +22,7 @@
 	margin:5px;
 	border-radius:5px;
 }
-.pic{
+.pictorial-news-section{
 		margin:5px;
 	background-color:white;
 	width:25%;
