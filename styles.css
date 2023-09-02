@@ -27,11 +27,12 @@
 	background-color:white;
 	width:25%;
 	border-radius:5px;
+	text-align:center;
 }
 img{
 	justify-content:centre;
 	width:100%;
 }
 h3,p{
-	text-align:center;
+	
 }
